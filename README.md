@@ -2,6 +2,7 @@
 
 ## SAR Image Despeckling
 
+This toolbox provides the codes to reproduce the results below. In case of using the toolbox please cite our overview paper [Image Restoration for Remote Sensing: Overview and Toolbox](https://arxiv.org/abs/2107.00557)
 
 - SAR-BM3D ([paper](https://ieeexplore.ieee.org/abstract/document/6564458?casa_token=0kPZY3PCIWQAAAAA:zX4dRU97MNB8WZFzbblMyueVn5QoLEgE7poZ4DRfBNCVLCsXjeAAQglwJsZbDDR65Hpqaqf4), [code](http://www.grip.unina.it/web-download.html?dir=JSROOT/SAR-BM3D))
 
